@@ -2,11 +2,11 @@
 Welcome to the JavaScript Documentation Website! This site provides comprehensive information about JavaScript, a cross-platform, object-oriented scripting language. Whether you're a beginner or an experienced developer, this documentation covers various aspects of JavaScript programming.
 
 # Table of Contents
-1. [Introduction]
-2. [What You Should Already Know]
-3. [JavaScript and Java]
-4. [Hello World]
-5. [Variables]
+1. [Introduction](#introduction)
+2. [What You Should Already Know](#what-you-should-already-know)
+3. [JavaScript and Java](#javascript-and-java)
+4. [Hello World](#hello-world)
+5. [Variables](#variables)
 
 # 1. Introduction
 Learn the fundamentals of JavaScript, its lightweight nature, and how it can be used in different host environments, such as web browsers. Explore the standard library of objects and core language elements.
