@@ -37,8 +37,11 @@ Open the index.html file in your preferred web browser to view the restaurant we
 ## File Structure
 
 index.html: Main HTML file containing the structure of the website.
+
 style.css: External CSS file for styling.
+
 images/: Directory containing images used in the project.
+
 icons/: Directory containing icons used in the project.
 
 ## Contributing
